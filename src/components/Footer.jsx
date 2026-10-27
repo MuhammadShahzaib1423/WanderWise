@@ -45,6 +45,7 @@ function Footer() {
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-4 py-6 text-xs text-sand-100/60 sm:flex-row sm:px-6 lg:px-8">
           <p>&copy; {new Date().getFullYear()} WanderWise Travel Ltd. All rights reserved.</p>
           <p>All destinations featured are fictional places created for demonstration.</p>
+          <p>Built by <a href="https://shahzaib-portfolio-muhammad-shahzaibs-projects-16858ef3.vercel.app" target="_blank" rel="noreferrer" className="hover:text-white">Muhammad Shahzaib</a></p>
         </div>
       </div>
     </footer>
